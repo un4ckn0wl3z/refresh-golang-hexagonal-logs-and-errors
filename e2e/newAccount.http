@@ -3,5 +3,5 @@ Content-Type: application/json
 
 {
     "account_type": "saving",
-    "amount": 5000
+    "amount": 2000
 }
