@@ -1,0 +1,7 @@
+POST http://localhost:8000/customers/2003/accounts
+Content-Type: application/json
+
+{
+    "account_type": "saving",
+    "amount": 5000
+}
